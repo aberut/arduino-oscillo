@@ -28,11 +28,15 @@ Une vidéo de démonstration est disponible [ici](./images/demo_notebook.mp4).
 
 Si l'on souhaite plutôt faire une acquisition de donnée, où chaque point de mesure est associé à un "time-stamp" qui indique à quel instant ce point a été mesuré, se reporter à la page : [Mesure-Arduino](./Tuto_mesure.md)
 
+
+
+**<u>Note</u>** : Des détails techniques supplémentaires sont disponibles dans ce [document](./Details_techniques.md).
+
 ## Dépendances
 
-- [numpy](https://numpy.org/) (tested with ver 1.19.1)
-- [matplotlib](https://matplotlib.org/index.html) (tested with ver 3.3.1)
-- [pyserial](https://shapely.readthedocs.io/en/latest/manual.html) (tested with ver 3.5)
+- [numpy](https://numpy.org/) (testé avec la version 1.19.1)
+- [matplotlib](https://matplotlib.org/index.html) (testé avec la version 3.3.1)
+- [pyserial](https://shapely.readthedocs.io/en/latest/manual.html) (testé avec la version 3.5)
 
 ## License
 
